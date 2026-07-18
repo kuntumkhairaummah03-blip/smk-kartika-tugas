@@ -1,0 +1,30 @@
+body{
+    background:
+    linear-gradient(
+    135deg,
+    #16a34a,
+    #22c55e
+    );
+
+    min-height:100vh;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.login-card{
+
+    width:430px;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:25px;
+
+    box-shadow:
+    0 20px 40px rgba(0,0,0,.15);
+
+    text-align:center;
+}
